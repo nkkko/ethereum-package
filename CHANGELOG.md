@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.5.0](https://github.com/ethpandaops/ethereum-package/compare/4.4.0...4.5.0) (2024-11-20)
+
+
+### Features
+
+* add vero `vc_type` ([#827](https://github.com/ethpandaops/ethereum-package/issues/827)) ([c2af143](https://github.com/ethpandaops/ethereum-package/commit/c2af14377ccb118e1ba6b06f1ee8335113ff6e16))
+
 ## [4.4.0](https://github.com/ethpandaops/ethereum-package/compare/4.3.0...4.4.0) (2024-11-01)
 
 
